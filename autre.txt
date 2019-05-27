@@ -1,1 +1,3 @@
 Ceci est un fichier texte
+
+Mon ami a travaillé sur ce fichier!
